@@ -1,1 +1,2 @@
 # ML-Project
+The following project is an implementation of deep learning neural network classifier model for multi modal data. The dataset consists of MNIST image and audio data represented as 1D numpy arrays. The data represents digits in the range of 0 to 9. The model uses two Convectional Neural Network Model which are trained on image and audio respectively and then they are late fused with an multi layer neural network in the end. After tuning and adding layers, the final model resulted in an accuracy score of 0.987.
